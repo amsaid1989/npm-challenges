@@ -2,6 +2,14 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Abdelrahman Said",
     "description": "My first Node.js app built following the freeCodeCamp challenges",
+    "keywords": [
+        "freecodecamp",
+        "webdev",
+        "development",
+        "challenges",
+        "nodejs",
+        "npm"
+    ],
     "dependencies": {
         "express": "^4.14.0"
     },
